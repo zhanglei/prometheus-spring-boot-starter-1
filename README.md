@@ -3,9 +3,9 @@
 #### 前言的前言：
 
 
-- 个人用异常通知请移步：[个人版分支](https://gitee.com/ITEater/prometheus-spring-boot-starter/tree/personal/)
+- 个人用异常通知请移步：[个人版分支](https://github.com/donald2008/prometheus-spring-boot-starter/tree/personal)
 
-- 多人协作开发需要异常通知请移步：[团队版分支](https://gitee.com/ITEater/prometheus-spring-boot-starter/tree/team/)
+- 多人协作开发需要异常通知请移步：[团队版分支](https://github.com/donald2008/prometheus-spring-boot-starter/tree/team)
 
 
 
